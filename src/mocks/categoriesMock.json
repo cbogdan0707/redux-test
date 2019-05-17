@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "meta": { "offset": 0, "limit": 1, "count": 1, "total": 1 },
+  "data": [
+    {
+      "id": "faeedf8a-bf7d-11e5-a0f9-02fada0dd3b9",
+      "title": "Drinks Cabinet"
+    },
+    {
+      "id": "529ea59e-bf7e-11e5-840e-02fada0dd3b9",
+      "title": "Kitchenware"
+    },
+    {
+      "id": "fec10d0e-bf7d-11e5-90a9-02fada0dd3b9",
+      "title": "Desserts"
+    }
+  ]
+}

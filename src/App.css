@@ -1,0 +1,17 @@
+.navBar > a {
+  padding: 0 4px;
+}
+.title {
+  color: #f6323e;
+  font-family: Comfortaa, Helvetica, sans-serif;
+}
+
+.item.active {
+  font-weight: bold;
+}
+
+.item.active div {
+  font-weight: normal;
+  padding-top: 10px;
+  font-size: 10px;
+}
