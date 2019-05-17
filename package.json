@@ -6,7 +6,7 @@
     "start-windows": "SET PORT=3600 && react-scripts start",
     "build": "react-scripts build",
     "now-start": "serve -s ./build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test --env=jsdom --watchAll",
     "eject": "react-scripts eject",
     "precommit": "pretty-quick --staged",
     "cypress:open": "cypress open"
